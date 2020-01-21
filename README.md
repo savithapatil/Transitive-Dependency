@@ -1,3 +1,3 @@
 ## Transitive Dependencies
 
-![Image](https://github.com/savithapatil/Transitive-Dependency/blob/master/trde2.png?raw=true)
+![Image](/trde2_updated.png)
